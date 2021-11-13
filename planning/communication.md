@@ -6,7 +6,7 @@
 
 ## communication channels
 
-- zoom meetings for long discussions 
+- zoom meetings for long discussions
 - slack or discord for short questions or notes.
 
 ## Asking for Help
