@@ -1,4 +1,4 @@
-# 1st interview-Khaled
+# 1st interview
 
 ## interview questions
 
